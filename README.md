@@ -8,7 +8,7 @@
 📖 I feel most comfortable at is Spring, Java and Kotlin, but am learning and working in a number of fields.
 Such as DevOps, Android development, micro-controllers, operating systems, and few others.
 
-📥 You can reach me on my [email](mailto:pavleprica@hey.com)
+📥 You can reach me on my [email](mailto:pavle.prica5@gmail.com)
 
 ## 💬
 [Twitter](https://twitter.com/PricaPavle) - [LinkedIn](https://www.linkedin.com/in/pavle-prica-350799162/)
