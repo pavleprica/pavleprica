@@ -3,7 +3,7 @@
 <h6 align="right">On occasion strange 🤭</h6>
 
 
-🖥️ I am a Software Engineer working at the [Decenter](https://www.decenter.com/), Belgrade. I focus my work on [DefiSaver](https://defisaver.com/).
+🖥️ I am a Software Engineer working at the [Decenter](https://www.decenter.com/), Belgrade. I focus my work on [DefiSaver](https://defisaver.com/). Github [organisation](https://github.com/defisaver).
 
 📖 Web programming is my main development and I feel most comfortable on the backend and infrastructure. Android development, micro-controllers and operating systems are some areas in which I am constantly growing. I am a very dedicated and positive person towards both my work and colleagues.
 
