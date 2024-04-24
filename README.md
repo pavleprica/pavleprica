@@ -12,6 +12,9 @@
 👽 In my free time I love to learn more, develop some useful things, communicate, travel,
 gaming, and who knows what else. Yeah, a 36-hour day would be short as much as the current 24-hour 🤓.
 
+---
+
+Conference talks: [Heapcon 2023](https://www.youtube.com/watch?v=7NgPg7Wo4AM)
 
 ## 💬
 <a href="https://twitter.com/PricaPavle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
