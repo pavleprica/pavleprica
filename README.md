@@ -3,12 +3,9 @@
 <h6 align="right">On occasion strange 🤭</h6>
 
 
-🖥️ I am a Software Engineer working at the [Ready (ex Argent)](https://www.ready.co/). Part of the Platform team.
+I am a Software Engineer working at the [Ready (ex Argent)](https://www.ready.co/). Part of the Platform team.
 
-📥 You can reach me on my [email](mailto:08.bodkins_plat@icloud.com)
-
-👽 In my free time I love to learn more, develop some useful things, communicate, travel,
-gaming, and who knows what else. Yeah, a 36-hour day would be short as much as the current 24-hour 🤓.
+You can reach me on my [email](mailto:08.bodkins_plat@icloud.com)
 
 ---
 
